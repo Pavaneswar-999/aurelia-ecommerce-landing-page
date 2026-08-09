@@ -2,6 +2,10 @@
 
 AURELIA is a responsive fashion and lifestyle store website created for Assignment 2. The project has a Home page for the main brand presentation and a Shop page containing the full product collection.
 
+## Live website
+
+https://aurelia-ecommerce-landing-page.onrender.com/index.html
+
 ## What It Includes
 
 - Responsive navigation and hero section
