@@ -1,6 +1,6 @@
 # AURELIA E-Commerce Landing Page
 
-AURELIA is a responsive fashion and lifestyle store website created for Assignment 2. The project has a Home page for the main brand presentation and a Shop page containing the full product collection.
+AURELIA is a responsive fashion and lifestyle store website . The project has a Home page for the main brand presentation and a Shop page containing the full product collection.
 
 ## Live website
 
